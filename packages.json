@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.1",
+    "packages": [
+        {
+            "name": "Marked.app Menu",
+            "author": "Jocelyn Mallon",
+            "description": "Open Marked.app from your menu",
+            "homepage": "https://github.com/jocelynmallon/sublime-text-2-marked",
+            "last_modified": "2012-05-01 12:52:30",
+            "platforms": {
+                "osx": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/jocelynmallon/sublime-text-2-marked"
+                    }
+                ]
+            }
+        }
+    ]
+}

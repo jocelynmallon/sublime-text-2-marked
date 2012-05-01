@@ -1,0 +1,12 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Marked",
+                "command": "marked"
+            }
+        ]
+    }
+]

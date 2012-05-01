@@ -1,0 +1,7 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "Marked",
+        "command": "marked"
+    }
+]
